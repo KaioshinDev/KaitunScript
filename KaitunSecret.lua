@@ -3,7 +3,7 @@ if game.CoreGui:FindFirstChild("PepsiUi") then
 end
 
 local library = {
-	WorkspaceName = "Name",
+	WorkspaceName = "Kaioshin Hub",
 	flags = {},
 	signals = {},
 	objects = {},
